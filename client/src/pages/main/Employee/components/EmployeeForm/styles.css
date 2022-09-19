@@ -1,0 +1,11 @@
+.form-control-wrapper {
+  display: grid;
+  gap: 20px;
+  grid-template-columns: 1fr 1fr;
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+
+.btn-wrapper {
+  margin-top: 20px;
+}
